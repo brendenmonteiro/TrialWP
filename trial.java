@@ -4,5 +4,7 @@ public static void main(String[]arr){
 	System.out.println("Hello");
 	System.out.println("World");
 	System.out.println("Hello GitHub");
+	System.out.println(1+1);
+	System.out.println(1+2);
 }
 }
