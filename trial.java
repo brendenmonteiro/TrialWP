@@ -12,5 +12,6 @@ public static void main(String[]arr){
 	System.out.println("Just wanted to see if this shite works");
 	System.out.println("lol");
 	System.out.println("BIGG BRAINNNN");
+	System.out.println("IM TRYING TO COMMIT TO MY OWN BRANCH ):");
 }
 }
