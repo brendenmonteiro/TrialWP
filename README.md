@@ -1,2 +1,0 @@
-# TrialWP
-Trial
