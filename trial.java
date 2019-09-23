@@ -11,7 +11,9 @@ public static void main(String[]arr){
 	System.out.println(a);
 	System.out.println("Just wanted to see if this shite works");
 	System.out.println("lol");
+  System.out.println("hit");
 	System.out.println("i just wanna enjoy some death");
 	System.out.println("I HOPE THIS WORKS ");
+
 }
 }
